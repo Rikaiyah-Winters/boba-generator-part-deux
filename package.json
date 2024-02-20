@@ -1,7 +1,7 @@
 {
   "name": "boba-generator-part-deux",
   "version": "0.1.0",
-  "homepage": "https://rikaiyah-winters.github.io/react-gh-pages",
+  "homepage": "https://rikaiyah-winters.github.io/boba-generator-part-deux",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
