@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.98dcdf63.css",
-    "main.js": "/react-gh-pages/static/js/main.5361fae1.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.98dcdf63.css.map": "/react-gh-pages/static/css/main.98dcdf63.css.map",
-    "main.5361fae1.js.map": "/react-gh-pages/static/js/main.5361fae1.js.map"
+    "main.css": "/boba-generator-part-deux/static/css/main.98dcdf63.css",
+    "main.js": "/boba-generator-part-deux/static/js/main.5361fae1.js",
+    "index.html": "/boba-generator-part-deux/index.html",
+    "main.98dcdf63.css.map": "/boba-generator-part-deux/static/css/main.98dcdf63.css.map",
+    "main.5361fae1.js.map": "/boba-generator-part-deux/static/js/main.5361fae1.js.map"
   },
   "entrypoints": [
     "static/css/main.98dcdf63.css",
